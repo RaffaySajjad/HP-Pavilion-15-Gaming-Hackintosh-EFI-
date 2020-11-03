@@ -9,6 +9,6 @@ Intel i7-9750H
 16GB RAM
 Intel UHD 630
 Nvidia GTX 1650 (Disabled)
-Toshiba SSD (Not its not PM981!!!)
+Toshiba SSD (Its not PM981!!!)
 
 Please note this is not tested for laptop's equipped with PM981 SSD. You need to make necessasry changes yourself if you have that.
