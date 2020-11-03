@@ -2,6 +2,7 @@
 This EFI is provided "as is". I am not claiming it will work with your configuration, but most likely it will. You are free to try. As such I deem no responsibility for any unforeseen issues
 
 My Laptop Configuration:
+\n
 Intel i7-9750H
 16GB RAM
 Intel UHD 630
