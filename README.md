@@ -1,4 +1,4 @@
-# HP-Pavilion-15-Gaming-Hackintosh-EFI-
+# HP-Pavilion-15-Gaming-Hackintosh-EFI
 
 Tested macOS Versions include Big Sur 11.0 (Beta 8, 9, 10) and macOS Catalina (10.15.6 and 10.15.7)
 
