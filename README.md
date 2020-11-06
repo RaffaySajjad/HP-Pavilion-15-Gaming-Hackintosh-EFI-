@@ -14,4 +14,4 @@ This EFI is provided "as is". I am not claiming it will work with your configura
 <br>Nvidia GTX 1650 (Disabled)
 <br>Toshiba 128GB SSD + 1TB HDD
 <br>
-<br>Please note this is not tested for laptop's equipped with PM981 SSD. You need to make necessasry changes yourself if you have that.
+<br>Please note this is not tested for laptop's equipped with PM981 SSD. You need to make necessary changes yourself if you have that.
